@@ -1,5 +1,15 @@
 # snayzOS
 
+![Statut](https://img.shields.io/badge/statut-work%20in%20progress-orange)
+![Version](https://img.shields.io/badge/version-v0.1-blue)
+![Usage](https://img.shields.io/badge/usage-exp%C3%A9rimental-red)
+![Architecture](https://img.shields.io/badge/architecture-x86%20(i386)-lightgrey)
+![Langages](https://img.shields.io/badge/langages-C%20%7C%20NASM-informational)
+![Boot](https://img.shields.io/badge/boot-GRUB%20Multiboot-green)
+![Build](https://img.shields.io/badge/build-Windows%20%2B%20WSL-0078D6)
+![Test](https://img.shields.io/badge/test-QEMU-ff6600)
+![Licence](https://img.shields.io/badge/licence-non%20d%C3%A9finie-lightgrey)
+
 **snayzOS** est un petit système d'exploitation expérimental développé
 en C et en assembleur x86. Le projet fournit un noyau freestanding 32
 bits (`i386`) qui démarre avec GRUB via Multiboot et affiche un
