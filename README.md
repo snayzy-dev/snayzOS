@@ -70,7 +70,7 @@ Depuis l'écran d'accueil, appuyer sur `1` pour ouvrir le terminal.
 Depuis le bureau, les touches `1` à `4` ouvrent les écrans
 correspondants. La touche `Échap` revient au bureau.
 
-```
+
 
 ## Architecture technique
 
